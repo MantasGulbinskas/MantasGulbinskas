@@ -1,0 +1,6 @@
+.textLogo {
+    text-transform: capitalize;
+}
+.textLogo::first-letter {
+color: #51fe44;
+}
