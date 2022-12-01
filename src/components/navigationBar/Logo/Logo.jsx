@@ -6,7 +6,7 @@ export default function Logo() {
   return (
     <div className="flex ml-10 items-center justify-start">
       <img src={logoImg} alt="logo" />
-      <h2 className="text-24 ml-5 text-white textLogo font-raleway">mical</h2>
+      <h2 className="text-[30px] ml-5 text-white textLogo font-raleway">mical</h2>
     </div>
   );
 }
