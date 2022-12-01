@@ -1,0 +1,4 @@
+.background {
+    background-image: url(../../assets/images/car-engine.png);
+    object-fit: cover;   
+}

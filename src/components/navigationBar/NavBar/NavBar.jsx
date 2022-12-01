@@ -8,7 +8,7 @@ export default function NavBar() {
   return (
     <nav className="w-full flex py-6 justify-between items-center navbar">
       <Logo />
-      <ul className="list-none sm:flex hidden justify-center items-center flex-1">
+      <ul className="list-none sm:flex hidden justify-center items-center flex-1 capitalize">
         <li className="font-normal cursor-pointer text-[16px] text-white mr-10">
           <a href="#home">home</a>
         </li>
