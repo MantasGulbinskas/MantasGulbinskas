@@ -4,7 +4,11 @@
     {
     "id": 1,
         "title": "welcome",
+<<<<<<< HEAD
         "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,  ",
+=======
+        "description": "It is a long established fact that a reader will be distracted ",
+>>>>>>> 82a8bd5579223d433f2c46318d27c7dd224643da
         "h2": "car repair services"
 
     }
