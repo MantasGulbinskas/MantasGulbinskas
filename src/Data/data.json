@@ -8,5 +8,26 @@
         "h2": "car repair services"
 
     }
+],
+"WorkServices": [
+    {
+        "id": 1,
+        "image": "car-icon",
+        "title": "auto diagnose",
+        "description": "ipsum dolor sit amet, consectetur adipiscing elit, sed d veniam, adipiscing elit, sed d veniam"
+    },
+    {
+        "id": 2,
+        "image": "petrol-icon",
+        "title": "ac gas refill",
+        "description": "ipsum dolor sit amet, consectetur adipiscing elit, sed d veniam, adipiscing elit, sed d veniam"
+    },
+    {
+        "id": 3,
+        "image": "wheel-icon",
+        "title": "wheel alignment",
+        "description": "ipsum dolor sit amet, consectetur adipiscing elit, sed d veniam, adipiscing elit, sed d veniam"
+    }
 ]
+
 }
