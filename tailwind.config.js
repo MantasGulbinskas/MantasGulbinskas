@@ -2,9 +2,6 @@
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
-    fontSize: {
-      24: "24px",
-    },
     fontFamily: {
       raleway: ["Raleway", "sans-serif"],
     },

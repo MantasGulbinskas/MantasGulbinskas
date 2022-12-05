@@ -6,12 +6,13 @@ import {HeroCard} from "../components/Hero/HeroCard";
 
 export const Hero = () => {
   return (
-    <div>
+    <>
       <BlackLine />
       <section className="flex md:flex-row bg-primary sm:py-16 py-6 background">
           <HeroCard />
-        <Car />
+          <Car />
+
       </section>
-    </div>
+    </>
   );
 };
