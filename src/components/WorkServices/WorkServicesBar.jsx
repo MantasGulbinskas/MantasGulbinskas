@@ -2,7 +2,6 @@ import React from "react";
 import data from '../../Data/data.json'
 export default function WorkServicesBar() {
     const WorkServices = data.WorkServices;
-    console.log(WorkServices)
       return(
           <div className='flex justify-center sm:space-x-10 sm:relative sm:bottom-14 font-raleway  max-sm:flex-col' >
               {WorkServices.map((index) => {
