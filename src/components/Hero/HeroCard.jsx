@@ -6,7 +6,7 @@ export const HeroCard = () => {
 
     return (
         <>
-            {hero.map((item) => {
+            {hero?.map((item) => {
                 return (
                     <div className="font-raleway uppercase ml-20 container flex-1" key={item.id}>
                         <h2 className="text-[103px] max-sm:text-[50px] max-md:text-[20px] max-xl:text-[70px] text-secondary">{item.title}</h2>

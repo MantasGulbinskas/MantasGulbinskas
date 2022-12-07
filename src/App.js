@@ -3,6 +3,9 @@ import Home from "./containers/Home";
 import "./responsive.css";
 import {WorkServices} from "./containers/WorkServices";
 import AboutService from "./containers/AboutService";
+import ServiceDo from "./containers/ServiceDo";
+import {Testimonial} from "./containers/Testimonial";
+import {Footer} from "./containers/Footer";
 function App() {
   return (
     <>
@@ -10,6 +13,9 @@ function App() {
       <Hero />
         <WorkServices />
         <AboutService />
+        <ServiceDo />
+        <Testimonial />
+        <Footer />
     </>
   );
 }

@@ -6,25 +6,26 @@
     bottom: 50%;
     left: 50%;
     transform: translate(-50%, 0);
+    padding-right: 180px;
 }
 
 .green-line {
     background-image: url("../../assets/images/green-line.PNG");
-    width: 100%;
+    width: 100vh;
     height: 330px;
     background-repeat: no-repeat;
     position: absolute;
-    top: 110%;
-    left: 15%;
+    top: 10%;
+    left: 10%;
 }
 
 .blue-line {
     background-image: url("../../assets/images/blue-line.png");
-    width: 100%;
+    width: 100vh;
     height: 330px;
     background-repeat: no-repeat;
     position: absolute;
-    top: 170%;
+    top: 70%;
     left: 40%;
 }
 @media only screen and (max-width: 600px) {

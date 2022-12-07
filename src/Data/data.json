@@ -28,6 +28,68 @@
         "title": "wheel alignment",
         "description": "ipsum dolor sit amet, consectetur adipiscing elit, sed d veniam, adipiscing elit, sed d veniam"
     }
-]
+],
+    "WhatWeDo": [
+        {
+            "id": 1,
+            "image": "car-1",
+            "title": "quick repair",
+            "description": "total service"
+        },
+        {
+            "id": 2,
+            "image": "car-2"
+        },
+        {
+            "id": 3,
+            "image": "car-3"
+        },
+        {
+            "id": 4,
+            "image": "car-4"
+        }
+    ],
+    "Testimonial": [
+        {
+            "id": 1,
+            "image": "face-1",
+            "name": "Jckolo",
+            "title": "(it is a long)",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as"
+
+        },
+        {
+            "id": 2,
+            "image": "face-1",
+            "name": "Jckolo",
+            "title": "(it is a long)",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as"
+
+        },
+        {
+            "id": 3,
+            "image": "face-2",
+            "name": "John",
+            "title": "(it is a long)",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as"
+
+        },
+        {
+            "id": 4,
+            "image": "face-1",
+            "name": "Jckolo",
+            "title": "(it is a long)",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as"
+
+        },
+        {
+            "id": 5,
+            "image": "face-2",
+            "name": "Jogn",
+            "title": "(it is a long)",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as"
+
+        }
+    ]
 
 }
