@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5c88ee4.css",
+    "main.js": "/static/js/main.37d460e6.js",
+    "static/media/car-1.png": "/static/media/car-1.0a43ed10f0e16db20b2c.png",
+    "static/media/car-engine.png": "/static/media/car-engine.47e9bf25820f269f55c3.png",
+    "static/media/car-4.png": "/static/media/car-4.aedf7612b977d5909df9.png",
+    "static/media/car-3.png": "/static/media/car-3.be3a83a52a4d16d90b2c.png",
+    "static/media/car-2.png": "/static/media/car-2.65378ec2ff191cbc6ecf.png",
+    "static/media/carServiceBackground.png": "/static/media/carServiceBackground.ad3daa182788db607fcc.png",
+    "static/media/car-repair.png": "/static/media/car-repair.8c90ad2fd795954f4489.png",
+    "static/media/face-2.png": "/static/media/face-2.71967bb6af2168310ddb.png",
+    "static/media/face-1.png": "/static/media/face-1.e613be251b39dcdb1301.png",
+    "static/media/green-line.PNG": "/static/media/green-line.ad415b926a47465b0929.PNG",
+    "static/media/blue-line.png": "/static/media/blue-line.3d601c373c6ca4007180.png",
+    "static/media/map.png": "/static/media/map.0f6b256cd95bf2582895.png",
+    "static/media/close.svg": "/static/media/close.4b1cc5d063959cf86b7849aef0c24c63.svg",
+    "static/media/menu.svg": "/static/media/menu.773d1f3d335d2a46203de2be7f4f4e19.svg",
+    "index.html": "/index.html",
+    "main.f5c88ee4.css.map": "/static/css/main.f5c88ee4.css.map",
+    "main.37d460e6.js.map": "/static/js/main.37d460e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5c88ee4.css",
+    "static/js/main.37d460e6.js"
+  ]
+}
