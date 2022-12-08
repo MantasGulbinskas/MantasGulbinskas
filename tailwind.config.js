@@ -9,6 +9,7 @@ module.exports = {
       colors: {
         primary: "#1a5dbf",
         secondary: "#51fe44",
+        footer: "#141629"
       },
     },
   },

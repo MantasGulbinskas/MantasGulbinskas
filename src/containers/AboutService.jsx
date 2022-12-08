@@ -14,7 +14,7 @@ export default function AboutService() {
                 <div className=' border  rounded-3xl bg-white flex flex-wrap flex-row justify-center '>
                     <h2 className='text-[30px] text-center mt-16 '>Dolor sit amet, consectetur adipiscing elit, </h2>
                     <p className='text-center align-center text-[20px] mt-10 px-36 mb-20'>dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud </p>
-                    <GreenBtn  name={'about more'}/>
+                    <GreenBtn style={'capitalize'} name={'about more'}/>
                 </div>
             </div>
 
