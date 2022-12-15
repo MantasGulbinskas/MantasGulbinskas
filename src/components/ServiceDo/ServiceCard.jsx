@@ -3,7 +3,7 @@ import data from '../../Data/data.json'
 import {GreenBtn} from "../Buttons/GreenBtn";
 import {HeadingTitle} from "../HeadingTitle/HeadingTitle";
 export default function ServiceCard() {
-    const style = 'capitalize'
+
     const serviceDo = data.WhatWeDo
     return (
         <section className="mt-36 flex items-center flex-col">
@@ -21,7 +21,7 @@ export default function ServiceCard() {
                 )
                 })}
             </div>
-            <GreenBtn style={style} name={'see more'} />
+            <GreenBtn styles={'capitalize mt-16'} name={'see more'} />
         </section>
     )
 }

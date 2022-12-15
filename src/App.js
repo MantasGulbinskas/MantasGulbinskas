@@ -1,6 +1,5 @@
 import { Hero } from "./containers/Hero";
 import Home from "./containers/Home";
-import "./responsive.css";
 import {WorkServices} from "./containers/WorkServices";
 import AboutService from "./containers/AboutService";
 import ServiceDo from "./containers/ServiceDo";

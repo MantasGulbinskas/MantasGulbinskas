@@ -6,33 +6,50 @@
     bottom: 50%;
     left: 50%;
     transform: translate(-50%, 0);
-    padding-right: 180px;
 }
 
 .green-line {
     background-image: url("../../assets/images/green-line.PNG");
-    width: 100vh;
-    height: 330px;
+    width: 100%;
+    max-width: 770px;
+    height: auto;
+
     background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
     position: absolute;
     top: 10%;
-    left: 10%;
+    left: 20%;
 }
 
 .blue-line {
     background-image: url("../../assets/images/blue-line.png");
-    width: 100vh;
+    width: 100%;
+    max-width: 770px;
     height: 330px;
+    max-height: 100%;
     background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
     position: absolute;
     top: 70%;
-    left: 40%;
+    left: 42%;
 }
 @media only screen and (max-width: 600px) {
     .service-background {
         max-width: 450px;
         background-position: center ;
 
+    }
+
+    .blue-line {
+        left: 10%;
+        top: 78%;
+    }
+
+    .green-line {
+        top: 10%;
+        left: 0;
     }
 
 }
